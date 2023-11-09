@@ -130,5 +130,4 @@ def jogar_moeda():
     return 'Coroa'
 
 
-
 print(jogar_moeda())
