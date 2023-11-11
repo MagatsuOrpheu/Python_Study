@@ -61,10 +61,9 @@ except ValueError:
     print("Somente datas são aceitos")
 """
 
-# Verificar se o número digitado é um quadrado perfeito
-# verify if the number is a perfect square
+# Criar uma função que verifique se o número digitado é um quadrado perfeito
+# Create a function to verify if the number is a perfect square
 """
-
 number = int(input('Digite um numero para verificar se é um quadrado perfeito: '))
 
 
