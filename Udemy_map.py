@@ -27,7 +27,7 @@ import random
 
 
 
-"""
+
 # Utilizando a função map
 def funcao(r):
     return math.pi * (r ** 2)
@@ -41,7 +41,7 @@ print(list(areas))  # Converte em lista para visualização
 
 # Usando lambda
 print(list(map(lambda r: math.pi * (r ** 2), conjunto_de_numeros)))
-"""
+
 
 
 
